@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: darkturquoise;
+}
+nav a{
+    font-size: 36px;
+    color:  whitesmoke;
+    font-style: oblique;
+}
+
+h1{
+    font-style: oblique;
+    font-size: 60px;
+}
+nav{
+
+    background-color: black;
+    align-content: center;
+    justify-items: flex-end;
+
+}
+img{
+    color:  rosybrown;
+    border-style: dotted;
+    border-width: thick;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.link-navbar{
+    font-size: 20px;
+    color: seagreen;
+    text-decoration: unset;
+}
+
+#home-hero{
+    background-color: rgb(4, 74, 102);
+    height: 400px;
+    width: 100%;
+}
+
+/*
+no agregar estilos
+
+p{
+
+}
+div{
+
+}
+section{
+
+}
+*/
