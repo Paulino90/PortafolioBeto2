@@ -9,6 +9,10 @@ nav a{
     font-size: 36px;
     color:  whitesmoke;
     font-style: oblique;
+    text-decoration:none;
+    margin: 40px;
+ 
+
 }
 
 h1{
@@ -18,15 +22,16 @@ h1{
 nav{
 
     background-color: black;
-    align-content: center;
-    justify-items: flex-end;
-
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
 }
 img{
     color:  rosybrown;
     border-style: dotted;
     border-width: thick;
-    align-content: center;
+    align-items: center;
     justify-content: space-between;
 }
 
